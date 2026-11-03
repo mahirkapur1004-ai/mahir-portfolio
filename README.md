@@ -1,6 +1,6 @@
 # Mahir Portfolio
 
-Local copy of Mahir's automotive real-time 3D portfolio. The supplied design is preserved exactly in `index.html`; its media is embedded, so the page does not require a separate assets directory.
+Local copy of Mahir Kapur's automotive, environment, and hard-surface 3D portfolio. The site is defined in `index.html`, with optimized images, video, and the downloadable CV stored under `media/`.
 
 ## Run locally
 
@@ -18,4 +18,4 @@ npm run check
 
 ## Deployment
 
-This is a static website and can be deployed directly to GitHub Pages. The only remote dependency is Google Fonts; all portfolio media is embedded in the HTML.
+This is a static website and can be deployed directly to GitHub Pages. Keep the `media/` directory beside `index.html` so project images, videos, posters, and the CV remain available.
